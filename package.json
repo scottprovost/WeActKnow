@@ -1,7 +1,7 @@
 {
-  "name": "knowitall",
+  "name": "WeActKnow",
   "version": "0.0.1",
-  "description": "Exploring machine learning with an IRC bot",
+  "description": "A machine learning Issue Sentiment bot",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
